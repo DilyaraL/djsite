@@ -1,0 +1,10 @@
+asgiref==3.6.0
+Django==3.1.5
+django-debug-toolbar==3.2
+django-ranged-response==0.2.0
+django-simple-captcha==0.5.13
+djangorestframework==3.14.0
+Pillow==9.4.0
+pytz==2023.2
+six==1.16.0
+sqlparse==0.4.3
